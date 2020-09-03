@@ -102,7 +102,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
           )
         ],
       ),
-      body: ListView(children: [
+      body: Column(children: [
         Container(
           child: Center(
             child: Column(children: [
